@@ -95,4 +95,4 @@ No individual screenshots of all ten camera feeds or ten mathematics resource pa
 
 ## Course Credit
 
-Thanks to NetworkWalks for the lab guidance.
+Thanks to NetworkWalks for the lab guidance. **Mentor: Waqas Karim CCIE.**
