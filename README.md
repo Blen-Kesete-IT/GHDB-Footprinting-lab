@@ -76,10 +76,6 @@ This screenshot illustrates a web camera interface but does not independently ve
 
 **Verification limitation:** These are ten table entries, but entries 8–10 use the same collection URL and entry 10 is not a distinct book. The list contains a mix of indexes, textbook pages, and catalogs—not ten separately validated directory listings. Current accessibility from the student's network was not tested.
 
-**Our findings:** Search operators such as `intitle:`, `site:`, and `filetype:` can identify public PDF resources and directories. Directory indexes differ from publisher catalogs intended to distribute open ebooks. Some rows point to the same catalog, so this set is not ten independently validated directory listings.
-
-**What we learned:** We learned to identify mathematics PDF resources, build clickable evidence tables, describe the resource type accurately, and avoid treating intentionally published educational PDFs as vulnerabilities. The links were not all independently tested from the student's network.
-
 ## Overall Findings and What We Learned
 
 1. Google dorking can help locate indexed interfaces and published files.
