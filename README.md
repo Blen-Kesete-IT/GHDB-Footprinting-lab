@@ -76,7 +76,7 @@ Thanks to NetworkWalks for the lab guidance.
 
 ### Evidence and screenshot status
 
-The existing [GHDB entry screenshot](evidence/ghdb-entry.jpg) and [webcam interface screenshot](evidence/webcam-interface.jpg) are separate earlier lab evidence. They are **not** ten verified screenshots of these Insecam listings. No captures for the ten individual feeds were provided, so no live-feed screenshot collage is claimed or fabricated. For any authorized evidence, redact faces, private interiors, location clues, timestamps and device/network identifiers before public upload.
+The [GHDB screenshot](evidence/ghdb-entry.jpg) and [webcam screenshot](evidence/webcam-interface.jpg) document earlier lab observations, not all ten camera listings. Individual feed screenshots have not been provided. Any publicly shared evidence should be redacted to protect privacy.
 
 ### Findings and interpretation
 
