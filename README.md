@@ -57,20 +57,20 @@ Thanks to NetworkWalks for the lab guidance.
 
 ## Footprinting findings: 10 student-observed camera listings
 
-**Method:** The student reported opening ten Insecam listing links and observing camera feeds during the lab. This is a record of student-reported observations, not independent live verification. The listing IDs below are not camera IP addresses. Because this repository is public, direct links to potentially private third-party feeds, credentials, precise locations and identifying footage are intentionally excluded.
+**Method:** The student reported opening ten Insecam listing links and observing camera feeds during the lab. This is a record of student-reported observations, not independent live verification. The listing IDs below are not camera IP addresses. The listing URLs below were supplied for this assignment; they are clickable references to listing pages, not validated device IP addresses. Credentials, precise locations, and identifying footage are not included.
 
 | No. | Listing reference | Finding | Credentials | Feed screenshot |
 |---|---|---|---|---|
-| 1 | Insecam listing ID `1012712` | Student reported viewing feed; not independently verified | Not supplied | Not supplied |
-| 2 | Insecam listing ID `1012784` | Student reported viewing feed; not independently verified | Not supplied | Not supplied |
-| 3 | Insecam listing ID `1012770` | Student reported viewing feed; not independently verified | Not supplied | Not supplied |
-| 4 | Insecam listing ID `1012776` | Student reported viewing feed; not independently verified | Not supplied | Not supplied |
-| 5 | Insecam listing ID `1012769` | Student reported viewing feed; not independently verified | Not supplied | Not supplied |
-| 6 | Insecam listing ID `1012766` | Student reported viewing feed; not independently verified | Not supplied | Not supplied |
-| 7 | Insecam listing ID `1012760` | Student reported viewing feed; not independently verified | Not supplied | Not supplied |
-| 8 | Insecam listing ID `1012752` | Student reported viewing feed; not independently verified | Not supplied | Not supplied |
-| 9 | Insecam listing ID `1012735` | Student reported viewing feed; not independently verified | Not supplied | Not supplied |
-| 10 | Insecam listing ID `1012730` | Student reported viewing feed; not independently verified | Not supplied | Not supplied |
+| 1 | [Insecam listing 1012712](http://www.insecam.org/en/view/1012712/) | Student reported viewing feed; not independently verified | Not supplied | Not supplied |
+| 2 | [Insecam listing 1012784](http://www.insecam.org/en/view/1012784/) | Student reported viewing feed; not independently verified | Not supplied | Not supplied |
+| 3 | [Insecam listing 1012770](http://www.insecam.org/en/view/1012770/) | Student reported viewing feed; not independently verified | Not supplied | Not supplied |
+| 4 | [Insecam listing 1012776](http://www.insecam.org/en/view/1012776/) | Student reported viewing feed; not independently verified | Not supplied | Not supplied |
+| 5 | [Insecam listing 1012769](http://www.insecam.org/en/view/1012769/) | Student reported viewing feed; not independently verified | Not supplied | Not supplied |
+| 6 | [Insecam listing 1012766](http://www.insecam.org/en/view/1012766/) | Student reported viewing feed; not independently verified | Not supplied | Not supplied |
+| 7 | [Insecam listing 1012760](http://www.insecam.org/en/view/1012760/) | Student reported viewing feed; not independently verified | Not supplied | Not supplied |
+| 8 | [Insecam listing 1012752](http://www.insecam.org/en/view/1012752/) | Student reported viewing feed; not independently verified | Not supplied | Not supplied |
+| 9 | [Insecam listing 1012735](http://www.insecam.org/en/view/1012735/) | Student reported viewing feed; not independently verified | Not supplied | Not supplied |
+| 10 | [Insecam listing 1012730](http://www.insecam.org/en/view/1012730/) | Student reported viewing feed; not independently verified | Not supplied | Not supplied |
 
 **Search query discussed in the lab:** `site:insecam.org/en/view/ "IP camera"`. This is a general query, not a verified official GHDB entry or proof it located each camera. GHDB reference: https://www.exploit-db.com/google-hacking-database.
 
