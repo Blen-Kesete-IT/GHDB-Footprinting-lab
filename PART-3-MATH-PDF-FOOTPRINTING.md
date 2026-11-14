@@ -23,19 +23,6 @@ The assignment's Google dork was used as a model for relevant public-resource se
 | 9 | [OpenStax Algebra and Trigonometry 2e](https://openstax.org/subjects/math) | `site:openstax.org "Algebra and Trigonometry 2e" pdf` | None indicated | Mathematics catalog, book link not individually checked |
 | 10 | [OpenStax mathematics textbook collection](https://openstax.org/subjects/math) | `site:openstax.org/subjects/math textbooks pdf` | None indicated | General catalog; overlaps with entries 5–9 |
 
-**Verification limitation:** These are ten table entries, but entries 8–10 use the same collection URL and entry 10 is not a distinct book. The list contains a mix of indexes, textbook pages, and catalogs—not ten separately validated directory listings. Current accessibility from the student's network was not tested.
-
-## Our findings
-
-- Search engines can reveal filenames, educational document titles, publicly listed directories, and PDF download options.
-- Directory indexes and publisher catalogs differ: the former may expose a folder's contents; the latter intentionally advertise open materials.
-- The relevant dork helps narrow search results, but a query match is not evidence of a vulnerability or proof of a specific access level.
-- None of these observations demonstrate a need for usernames or passwords, and no restricted access was attempted.
-
-## What we learned
-
-We learned how to use operators such as `intitle:`, `site:`, and `filetype:` to narrow public search results. We also learned to record working hyperlinks, identify the source of each finding, and distinguish authorized open-access PDFs from accidentally exposed resources. Reliable footprinting reports separate observed evidence from assumptions about security weaknesses.
-
 ## Screenshot evidence and live links
 
 The repository already includes an [example GHDB screenshot](evidence/ghdb-entry.jpg) and a [webcam-interface screenshot](evidence/webcam-interface.jpg) from the earlier camera exercise. They do **not** verify these ten mathematics PDF resources. The clickable links in the findings table open the referenced resource pages; no fresh screenshots of the ten PDF pages were supplied or captured for this section. A static screenshot itself is not a clickable link, so the URLs remain separately clickable in the table.
