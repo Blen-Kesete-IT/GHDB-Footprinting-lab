@@ -33,6 +33,16 @@ A search result shows what a search engine indexed. A screenshot records what th
 | GHDB screenshot | Shows an entry about indexed camera interfaces |
 | Webcam interface screenshot | Shows several images in multi-view while signed out |
 
+### Screenshot evidence
+
+**GHDB entry metadata**
+
+![Cropped GHDB entry showing its ID, author, and publication date](evidence/ghdb-entry.jpg)
+
+**webcamXP multi-view interface**
+
+![Cropped webcamXP interface showing the navigation and signed-out status](evidence/webcam-interface.jpg)
+
 ## Skills Demonstrated
 
 - Interpreting search-index evidence
