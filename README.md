@@ -32,6 +32,7 @@ A search result shows what a search engine indexed. A screenshot records what th
 | Findings worksheet | Ten references were recorded |
 | GHDB screenshot | Shows an entry about indexed camera interfaces |
 | Webcam interface screenshot | Shows several images in multi-view while signed out |
+| User-supplied Insecam listing | The page could not be retrieved for review. Its contents, live status, and relationship to the webcamXP screenshot are unverified. |
 
 ### Screenshot evidence
 
