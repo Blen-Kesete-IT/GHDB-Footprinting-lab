@@ -53,3 +53,34 @@ A search result shows what a search engine indexed. A screenshot records what th
 ## Course Credit
 
 Thanks to NetworkWalks for the lab guidance.
+
+
+## Footprinting findings: 10 student-observed camera listings
+
+**Method:** The student reported opening ten Insecam listing links and observing camera feeds during the lab. This is a record of student-reported observations, not independent live verification. The listing IDs below are not camera IP addresses. Because this repository is public, direct links to potentially private third-party feeds, credentials, precise locations and identifying footage are intentionally excluded.
+
+| No. | Listing reference | Finding | Credentials | Feed screenshot |
+|---|---|---|---|---|
+| 1 | Insecam listing ID `1012712` | Student reported viewing feed; not independently verified | Not supplied | Not supplied |
+| 2 | Insecam listing ID `1012784` | Student reported viewing feed; not independently verified | Not supplied | Not supplied |
+| 3 | Insecam listing ID `1012770` | Student reported viewing feed; not independently verified | Not supplied | Not supplied |
+| 4 | Insecam listing ID `1012776` | Student reported viewing feed; not independently verified | Not supplied | Not supplied |
+| 5 | Insecam listing ID `1012769` | Student reported viewing feed; not independently verified | Not supplied | Not supplied |
+| 6 | Insecam listing ID `1012766` | Student reported viewing feed; not independently verified | Not supplied | Not supplied |
+| 7 | Insecam listing ID `1012760` | Student reported viewing feed; not independently verified | Not supplied | Not supplied |
+| 8 | Insecam listing ID `1012752` | Student reported viewing feed; not independently verified | Not supplied | Not supplied |
+| 9 | Insecam listing ID `1012735` | Student reported viewing feed; not independently verified | Not supplied | Not supplied |
+| 10 | Insecam listing ID `1012730` | Student reported viewing feed; not independently verified | Not supplied | Not supplied |
+
+**Search query discussed in the lab:** `site:insecam.org/en/view/ "IP camera"`. This is a general query, not a verified official GHDB entry or proof it located each camera. GHDB reference: https://www.exploit-db.com/google-hacking-database.
+
+### Evidence and screenshot status
+
+The existing [GHDB entry screenshot](evidence/ghdb-entry.jpg) and [webcam interface screenshot](evidence/webcam-interface.jpg) are separate earlier lab evidence. They are **not** ten verified screenshots of these Insecam listings. No captures for the ten individual feeds were provided, so no live-feed screenshot collage is claimed or fabricated. For any authorized evidence, redact faces, private interiors, location clues, timestamps and device/network identifiers before public upload.
+
+### Findings and interpretation
+
+- **Finding:** Ten camera listing references were recorded and the student reports that feeds were visible when visited.
+- **Exposure risk:** Publicly viewable cameras can disclose sensitive scenes, operational context or personal information.
+- **Verification limit:** Current accessibility, device addresses, authorization, authentication configuration and vulnerability status were not validated.
+- **Defensive recommendation:** Camera owners should require authentication, restrict network exposure, disable unnecessary public streaming and review search indexing of interfaces they control.
