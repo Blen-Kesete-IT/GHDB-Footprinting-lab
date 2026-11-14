@@ -76,7 +76,6 @@ Thanks to NetworkWalks for the lab guidance.
 
 ### Evidence and screenshot status
 
-The [GHDB screenshot](evidence/ghdb-entry.jpg) and [webcam screenshot](evidence/webcam-interface.jpg) document earlier lab observations, not all ten camera listings. Individual feed screenshots have not been provided. Any publicly shared evidence should be redacted to protect privacy.
 
 ### Findings and interpretation
 
